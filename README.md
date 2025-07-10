@@ -1,1 +1,1 @@
-# data-drivem-astronomy
+# data-driven-astronomy
